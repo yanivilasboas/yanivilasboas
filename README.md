@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @yanivilasboas
-- 👀 Estou interessada em desenvolver minhas habilidades em programação
+- ♥ Apaixonada por desenvolvimento web
 - 🌱 Atualmente estou aprendendo React e Spring Boot
 - 📫 yanivilasboas@gmail.com
 
