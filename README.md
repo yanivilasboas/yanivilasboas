@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @yanivilasboas
 - ♥ Apaixonada por desenvolvimento web
-- 🌱 Atualmente estou aprendendo React e Spring Boot
+- 🌱 Atualmente estou aprendendo React, Next.js e Spring Boot
 - 📫 yanivilasboas@gmail.com
 
 <!---
